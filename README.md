@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **deeping my coding habilities at Henry**
 
-- 🌱 I’m currently learning **TailwindCSS, nestJS, MongoDB**
+- 🌱 I’m currently learning **Java☕**
 
 - 💬 Ask me about **React, Redux, Typescript, ExpressJS, NextJS**
 
