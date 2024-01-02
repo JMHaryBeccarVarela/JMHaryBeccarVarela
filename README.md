@@ -2,11 +2,11 @@
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
 
-- 🔭 I’m currently working on **deeping my coding habilities at Henry**
+- 🔭 I’m currently working at **Pidgin Contact Solutions**
 
-- 🌱 I’m currently learning **Java☕**
+- 🌱 I’m currently learning **TDD**
 
-- 💬 Ask me about **React, Redux, Typescript, ExpressJS, NextJS**
+- 💬 Ask me about **React, Typescript, Go, GinGonic**
 
 - 📫 How to reach me **julianhary04@gmail.com**
 
